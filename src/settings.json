@@ -1,5 +1,10 @@
 {
     "container": "map",
-    "accessToken": "",
-    "style": "mapbox://styles/mapbox/streets-v9"
+    "accessToken": "pk.eyJ1IjoiZGlhei1uIiwiYSI6ImNrZmp1bnJsdzBtdnEyem1qNzc3ZXVhMnIifQ.cryMAC-Nfr9bhxiJVv_7Tw",
+    "style": "mapbox://styles/diaz-n/ckfjzhh8u0o8g19o00k0scrh5",
+    "center": [-118.157, 33.981],
+    "zoom": 9,
+    "pitch": 60, 
+    "bearing": 0
+
 }

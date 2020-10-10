@@ -1,0 +1,5898 @@
+{
+ "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.63607,
+            37.10822
+          ],
+          [
+            -121.63808,
+            37.10956
+          ],
+          [
+            -121.63848,
+            37.10975
+          ],
+          [
+            -121.64062,
+            37.11103
+          ],
+          [
+            -121.64102,
+            37.11133
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 51.16223733719247,
+        "averageTravelSpeed": 10.93189096313065,
+        "fromStopId": "3378",
+        "fromStopLoc": {
+          "lat": 37.10822,
+          "lon": -121.63607
+        },
+        "fromStopName": "Monterey & Watsonville",
+        "numTrips": 691,
+        "pathLengthMeters": 559.3,
+        "toStopId": "146",
+        "toStopLoc": {
+          "lat": 37.11133,
+          "lon": -121.64102
+        },
+        "toStopName": "Monterey & Vineyard"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.64851,
+            37.12268
+          ],
+          [
+            -121.64916,
+            37.12385
+          ],
+          [
+            -121.64918,
+            37.12396
+          ],
+          [
+            -121.65004,
+            37.12531
+          ],
+          [
+            -121.65055,
+            37.12594
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 51.11557742402314,
+        "averageTravelSpeed": 7.946696887142967,
+        "fromStopId": "3381",
+        "fromStopLoc": {
+          "lat": 37.12268,
+          "lon": -121.64851
+        },
+        "fromStopName": "Monterey & Bisceglia",
+        "numTrips": 691,
+        "pathLengthMeters": 406.2,
+        "toStopId": "156",
+        "toStopLoc": {
+          "lat": 37.12594,
+          "lon": -121.65055
+        },
+        "toStopName": "Monterey & Dunne"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.65055,
+            37.12594
+          ],
+          [
+            -121.6523,
+            37.12792
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 25.047817655571627,
+        "averageTravelSpeed": 10.77139748100912,
+        "fromStopId": "156",
+        "fromStopLoc": {
+          "lat": 37.12594,
+          "lon": -121.65055
+        },
+        "fromStopName": "Monterey & Dunne",
+        "numTrips": 691,
+        "pathLengthMeters": 269.8,
+        "toStopId": "157",
+        "toStopLoc": {
+          "lat": 37.12792,
+          "lon": -121.6523
+        },
+        "toStopName": "Monterey & 3rd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.6523,
+            37.12792
+          ],
+          [
+            -121.65442,
+            37.13037
+          ],
+          [
+            -121.65483,
+            37.13012
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 96.47669898697545,
+        "averageTravelSpeed": 3.8993871468465953,
+        "fromStopId": "157",
+        "fromStopLoc": {
+          "lat": 37.12792,
+          "lon": -121.6523
+        },
+        "fromStopName": "Monterey & 3rd",
+        "numTrips": 691,
+        "pathLengthMeters": 376.2,
+        "toStopId": "158",
+        "toStopLoc": {
+          "lat": 37.13012,
+          "lon": -121.65483
+        },
+        "toStopName": "Main & Monterey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.65483,
+            37.13012
+          ],
+          [
+            -121.65773,
+            37.12853
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 23.800988422575966,
+        "averageTravelSpeed": 13.096094769927412,
+        "fromStopId": "158",
+        "fromStopLoc": {
+          "lat": 37.13012,
+          "lon": -121.65483
+        },
+        "fromStopName": "Main & Monterey",
+        "numTrips": 691,
+        "pathLengthMeters": 311.7,
+        "toStopId": "159",
+        "toStopLoc": {
+          "lat": 37.12853,
+          "lon": -121.65773
+        },
+        "toStopName": "Main & Hale"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.89,
+            37.33524
+          ],
+          [
+            -121.89065,
+            37.33613
+          ],
+          [
+            -121.89232,
+            37.33533
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 90.43504287690175,
+        "averageTravelSpeed": 3.1669139626531893,
+        "fromStopId": "609",
+        "fromStopLoc": {
+          "lat": 37.33524,
+          "lon": -121.89
+        },
+        "fromStopName": "1st & Santa Clara",
+        "numTrips": 723,
+        "pathLengthMeters": 286.4,
+        "toStopId": "441",
+        "toStopLoc": {
+          "lat": 37.33533,
+          "lon": -121.89232
+        },
+        "toStopName": "Santa Clara & Market"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.89232,
+            37.33533
+          ],
+          [
+            -121.89415,
+            37.33446
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 18.309751037344384,
+        "averageTravelSpeed": 10.338753356826405,
+        "fromStopId": "441",
+        "fromStopLoc": {
+          "lat": 37.33533,
+          "lon": -121.89232
+        },
+        "fromStopName": "Santa Clara & Market",
+        "numTrips": 723,
+        "pathLengthMeters": 189.3,
+        "toStopId": "442",
+        "toStopLoc": {
+          "lat": 37.33446,
+          "lon": -121.89415
+        },
+        "toStopName": "Santa Clara & Almaden Avenue"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.89415,
+            37.33446
+          ],
+          [
+            -121.89573,
+            37.33371
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 11.61595712309819,
+        "averageTravelSpeed": 13.920505928733286,
+        "fromStopId": "442",
+        "fromStopLoc": {
+          "lat": 37.33446,
+          "lon": -121.89415
+        },
+        "fromStopName": "Santa Clara & Almaden Avenue",
+        "numTrips": 723,
+        "pathLengthMeters": 161.7,
+        "toStopId": "443",
+        "toStopLoc": {
+          "lat": 37.33371,
+          "lon": -121.89573
+        },
+        "toStopName": "Santa Clara & Almaden Boulevard"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.89573,
+            37.33371
+          ],
+          [
+            -121.89579,
+            37.33368
+          ],
+          [
+            -121.89589,
+            37.33369
+          ],
+          [
+            -121.89881,
+            37.3323
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 22.018279391424624,
+        "averageTravelSpeed": 14.36079515473626,
+        "fromStopId": "443",
+        "fromStopLoc": {
+          "lat": 37.33371,
+          "lon": -121.89573
+        },
+        "fromStopName": "Santa Clara & Almaden Boulevard",
+        "numTrips": 723,
+        "pathLengthMeters": 316.2,
+        "toStopId": "444",
+        "toStopLoc": {
+          "lat": 37.3323,
+          "lon": -121.89881
+        },
+        "toStopName": "Santa Clara & Delmas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.88669,
+            37.33083
+          ],
+          [
+            -121.8883,
+            37.33292
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 47.87759474412173,
+        "averageTravelSpeed": 5.691597530250969,
+        "fromStopId": "3212",
+        "fromStopLoc": {
+          "lat": 37.33083,
+          "lon": -121.88669
+        },
+        "fromStopName": "1st & San Salvador",
+        "numTrips": 723,
+        "pathLengthMeters": 272.5,
+        "toStopId": "608",
+        "toStopLoc": {
+          "lat": 37.33292,
+          "lon": -121.8883
+        },
+        "toStopName": "1st & Paseo De San Antonio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.8883,
+            37.33292
+          ],
+          [
+            -121.88932,
+            37.33424
+          ],
+          [
+            -121.89,
+            37.33524
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 38.85676486860303,
+        "averageTravelSpeed": 7.682060022479983,
+        "fromStopId": "608",
+        "fromStopLoc": {
+          "lat": 37.33292,
+          "lon": -121.8883
+        },
+        "fromStopName": "1st & Paseo De San Antonio",
+        "numTrips": 723,
+        "pathLengthMeters": 298.5,
+        "toStopId": "609",
+        "toStopLoc": {
+          "lat": 37.33524,
+          "lon": -121.89
+        },
+        "toStopName": "1st & Santa Clara"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.7995,
+            37.237
+          ],
+          [
+            -121.80207,
+            37.237
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 24.62747467438496,
+        "averageTravelSpeed": 9.237650348154567,
+        "fromStopId": "3306",
+        "fromStopLoc": {
+          "lat": 37.237,
+          "lon": -121.7995
+        },
+        "fromStopName": "Santa Teresa & Del Canto",
+        "numTrips": 691,
+        "pathLengthMeters": 227.5,
+        "toStopId": "1128",
+        "toStopLoc": {
+          "lat": 37.237,
+          "lon": -121.80207
+        },
+        "toStopName": "Santa Teresa & Camino Verde"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.80207,
+            37.237
+          ],
+          [
+            -121.80314,
+            37.23699
+          ],
+          [
+            -121.80337,
+            37.23704
+          ],
+          [
+            -121.80353,
+            37.23712
+          ],
+          [
+            -121.80372,
+            37.23738
+          ],
+          [
+            -121.80372,
+            37.2378
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 18.76310853835019,
+        "averageTravelSpeed": 11.336074700269382,
+        "fromStopId": "1128",
+        "fromStopLoc": {
+          "lat": 37.237,
+          "lon": -121.80207
+        },
+        "fromStopName": "Santa Teresa & Camino Verde",
+        "numTrips": 691,
+        "pathLengthMeters": 212.7,
+        "toStopId": "1129",
+        "toStopLoc": {
+          "lat": 37.2378,
+          "lon": -121.80372
+        },
+        "toStopName": "Cottle & Santa Teresa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.80372,
+            37.2378
+          ],
+          [
+            -121.8037,
+            37.23903
+          ],
+          [
+            -121.8038,
+            37.24176
+          ],
+          [
+            -121.80381,
+            37.24219
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 75.77321997105646,
+        "averageTravelSpeed": 6.440270060931873,
+        "fromStopId": "1129",
+        "fromStopLoc": {
+          "lat": 37.2378,
+          "lon": -121.80372
+        },
+        "fromStopName": "Cottle & Santa Teresa",
+        "numTrips": 691,
+        "pathLengthMeters": 488,
+        "toStopId": "1130",
+        "toStopLoc": {
+          "lat": 37.24219,
+          "lon": -121.80381
+        },
+        "toStopName": "Cottle Park & Ride"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.80381,
+            37.24219
+          ],
+          [
+            -121.80384,
+            37.24518
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 30.67993053545586,
+        "averageTravelSpeed": 10.854001107178586,
+        "fromStopId": "1130",
+        "fromStopLoc": {
+          "lat": 37.24219,
+          "lon": -121.80381
+        },
+        "fromStopName": "Cottle Park & Ride",
+        "numTrips": 691,
+        "pathLengthMeters": 333,
+        "toStopId": "1131",
+        "toStopLoc": {
+          "lat": 37.24518,
+          "lon": -121.80384
+        },
+        "toStopName": "Cottle & Raleigh"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.83216,
+            37.27515
+          ],
+          [
+            -121.83567,
+            37.27862
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 56.98889525139663,
+        "averageTravelSpeed": 8.701695265585043,
+        "fromStopId": "1783",
+        "fromStopLoc": {
+          "lat": 37.27515,
+          "lon": -121.83216
+        },
+        "fromStopName": "Monterey & Skyway",
+        "numTrips": 716,
+        "pathLengthMeters": 495.9,
+        "toStopId": "1716",
+        "toStopLoc": {
+          "lat": 37.27862,
+          "lon": -121.83567
+        },
+        "toStopName": "Monterey & Senter"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.81761,
+            37.26488
+          ],
+          [
+            -121.82036,
+            37.26653
+          ],
+          [
+            -121.82252,
+            37.26805
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 65.24361838440119,
+        "averageTravelSpeed": 8.574018637411204,
+        "fromStopId": "3412",
+        "fromStopLoc": {
+          "lat": 37.26488,
+          "lon": -121.81761
+        },
+        "fromStopName": "Monterey & Bougainvillea",
+        "numTrips": 718,
+        "pathLengthMeters": 559.4,
+        "toStopId": "1780",
+        "toStopLoc": {
+          "lat": 37.26805,
+          "lon": -121.82252
+        },
+        "toStopName": "Monterey & Branham"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.82252,
+            37.26805
+          ],
+          [
+            -121.82569,
+            37.27028
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 20.336224860335196,
+        "averageTravelSpeed": 18.44983533457132,
+        "fromStopId": "1780",
+        "fromStopLoc": {
+          "lat": 37.26805,
+          "lon": -121.82252
+        },
+        "fromStopName": "Monterey & Branham",
+        "numTrips": 716,
+        "pathLengthMeters": 375.2,
+        "toStopId": "1781",
+        "toStopLoc": {
+          "lat": 37.27028,
+          "lon": -121.82569
+        },
+        "toStopName": "Monterey & Valleyhaven"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.82569,
+            37.27028
+          ],
+          [
+            -121.82945,
+            37.27291
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 49.97357541899448,
+        "averageTravelSpeed": 8.856680681522178,
+        "fromStopId": "1781",
+        "fromStopLoc": {
+          "lat": 37.27028,
+          "lon": -121.82569
+        },
+        "fromStopName": "Monterey & Valleyhaven",
+        "numTrips": 716,
+        "pathLengthMeters": 442.6,
+        "toStopId": "1782",
+        "toStopLoc": {
+          "lat": 37.27291,
+          "lon": -121.82945
+        },
+        "toStopName": "Monterey & Skyway"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.82945,
+            37.27291
+          ],
+          [
+            -121.8302,
+            37.27343
+          ],
+          [
+            -121.83095,
+            37.27403
+          ],
+          [
+            -121.83154,
+            37.27454
+          ],
+          [
+            -121.83216,
+            37.27515
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 18.160688981868912,
+        "averageTravelSpeed": 19.046634207839592,
+        "fromStopId": "1782",
+        "fromStopLoc": {
+          "lat": 37.27291,
+          "lon": -121.82945
+        },
+        "fromStopName": "Monterey & Skyway",
+        "numTrips": 717,
+        "pathLengthMeters": 345.9,
+        "toStopId": "1783",
+        "toStopLoc": {
+          "lat": 37.27515,
+          "lon": -121.83216
+        },
+        "toStopName": "Monterey & Skyway"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.89881,
+            37.3323
+          ],
+          [
+            -121.89932,
+            37.33212
+          ],
+          [
+            -121.90217,
+            37.33199
+          ],
+          [
+            -121.90207,
+            37.33042
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 94.56328630705387,
+        "averageTravelSpeed": 5.038953473473519,
+        "fromStopId": "444",
+        "fromStopLoc": {
+          "lat": 37.3323,
+          "lon": -121.89881
+        },
+        "fromStopName": "Santa Clara & Delmas",
+        "numTrips": 723,
+        "pathLengthMeters": 476.5,
+        "toStopId": "3072",
+        "toStopLoc": {
+          "lat": 37.33042,
+          "lon": -121.90207
+        },
+        "toStopName": "San Jose Diridon Station (Bay 13)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.83567,
+            37.27862
+          ],
+          [
+            -121.83938,
+            37.28227
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 49.86750000000001,
+        "averageTravelSpeed": 10.453702311124477,
+        "fromStopId": "1716",
+        "fromStopLoc": {
+          "lat": 37.27862,
+          "lon": -121.83567
+        },
+        "fromStopName": "Monterey & Senter",
+        "numTrips": 720,
+        "pathLengthMeters": 521.3,
+        "toStopId": "3195",
+        "toStopLoc": {
+          "lat": 37.28227,
+          "lon": -121.83938
+        },
+        "toStopName": "Monterey & Rancho"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.83938,
+            37.28227
+          ],
+          [
+            -121.84159,
+            37.28439
+          ],
+          [
+            -121.84203,
+            37.2848
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 29.823748271092658,
+        "averageTravelSpeed": 12.282158388355382,
+        "fromStopId": "3195",
+        "fromStopLoc": {
+          "lat": 37.28227,
+          "lon": -121.83938
+        },
+        "fromStopName": "Monterey & Rancho",
+        "numTrips": 723,
+        "pathLengthMeters": 366.3,
+        "toStopId": "3196",
+        "toStopLoc": {
+          "lat": 37.2848,
+          "lon": -121.84203
+        },
+        "toStopName": "Monterey & Fehren"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.84203,
+            37.2848
+          ],
+          [
+            -121.8455,
+            37.2881
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 45.081514522821536,
+        "averageTravelSpeed": 10.616324785577449,
+        "fromStopId": "3196",
+        "fromStopLoc": {
+          "lat": 37.2848,
+          "lon": -121.84203
+        },
+        "fromStopName": "Monterey & Fehren",
+        "numTrips": 723,
+        "pathLengthMeters": 478.6,
+        "toStopId": "3197",
+        "toStopLoc": {
+          "lat": 37.2881,
+          "lon": -121.8455
+        },
+        "toStopName": "Monterey & Southside"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.8455,
+            37.2881
+          ],
+          [
+            -121.84844,
+            37.29086
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 41.56446334716458,
+        "averageTravelSpeed": 9.69097078520269,
+        "fromStopId": "3197",
+        "fromStopLoc": {
+          "lat": 37.2881,
+          "lon": -121.8455
+        },
+        "fromStopName": "Monterey & Southside",
+        "numTrips": 723,
+        "pathLengthMeters": 402.8,
+        "toStopId": "3198",
+        "toStopLoc": {
+          "lat": 37.29086,
+          "lon": -121.84844
+        },
+        "toStopName": "Monterey & Lewis"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.84844,
+            37.29086
+          ],
+          [
+            -121.851,
+            37.29336
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 41.09778561549098,
+        "averageTravelSpeed": 8.71579805664721,
+        "fromStopId": "3198",
+        "fromStopLoc": {
+          "lat": 37.29086,
+          "lon": -121.84844
+        },
+        "fromStopName": "Monterey & Lewis",
+        "numTrips": 723,
+        "pathLengthMeters": 358.2,
+        "toStopId": "3199",
+        "toStopLoc": {
+          "lat": 37.29336,
+          "lon": -121.851
+        },
+        "toStopName": "Monterey & Lewis"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.851,
+            37.29336
+          ],
+          [
+            -121.85308,
+            37.29553
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 42.86178699861689,
+        "averageTravelSpeed": 7.07156703498575,
+        "fromStopId": "3199",
+        "fromStopLoc": {
+          "lat": 37.29336,
+          "lon": -121.851
+        },
+        "fromStopName": "Monterey & Lewis",
+        "numTrips": 723,
+        "pathLengthMeters": 303.1,
+        "toStopId": "3200",
+        "toStopLoc": {
+          "lat": 37.29553,
+          "lon": -121.85308
+        },
+        "toStopName": "Monterey & Umbarger"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.85308,
+            37.29553
+          ],
+          [
+            -121.85576,
+            37.29826
+          ],
+          [
+            -121.85917,
+            37.30168
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 60.95925034578148,
+        "averageTravelSpeed": 14.280031251405319,
+        "fromStopId": "3200",
+        "fromStopLoc": {
+          "lat": 37.29553,
+          "lon": -121.85308
+        },
+        "fromStopName": "Monterey & Umbarger",
+        "numTrips": 723,
+        "pathLengthMeters": 870.5,
+        "toStopId": "3201",
+        "toStopLoc": {
+          "lat": 37.30168,
+          "lon": -121.85917
+        },
+        "toStopName": "Monterey & Old Tully"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.85917,
+            37.30168
+          ],
+          [
+            -121.86089,
+            37.30344
+          ],
+          [
+            -121.86108,
+            37.30349
+          ],
+          [
+            -121.86157,
+            37.30401
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 60.65657123098208,
+        "averageTravelSpeed": 5.56246410162504,
+        "fromStopId": "3201",
+        "fromStopLoc": {
+          "lat": 37.30168,
+          "lon": -121.85917
+        },
+        "fromStopName": "Monterey & Old Tully",
+        "numTrips": 723,
+        "pathLengthMeters": 337.4,
+        "toStopId": "3202",
+        "toStopLoc": {
+          "lat": 37.30401,
+          "lon": -121.86157
+        },
+        "toStopName": "Monterey & Tully"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.86157,
+            37.30401
+          ],
+          [
+            -121.86408,
+            37.30653
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 39.84258921161823,
+        "averageTravelSpeed": 8.982849937263493,
+        "fromStopId": "3202",
+        "fromStopLoc": {
+          "lat": 37.30401,
+          "lon": -121.86157
+        },
+        "fromStopName": "Monterey & Tully",
+        "numTrips": 723,
+        "pathLengthMeters": 357.9,
+        "toStopId": "3203",
+        "toStopLoc": {
+          "lat": 37.30653,
+          "lon": -121.86408
+        },
+        "toStopName": "Monterey & Railroad Crossing"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.86652,
+            37.30899
+          ],
+          [
+            -121.86862,
+            37.31107
+          ],
+          [
+            -121.86865,
+            37.31124
+          ],
+          [
+            -121.86907,
+            37.31166
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 37.06521853388654,
+        "averageTravelSpeed": 10.119999688038215,
+        "fromStopId": "5255",
+        "fromStopLoc": {
+          "lat": 37.30899,
+          "lon": -121.86652
+        },
+        "fromStopName": "Monterey & Stauffer",
+        "numTrips": 723,
+        "pathLengthMeters": 375.1,
+        "toStopId": "3204",
+        "toStopLoc": {
+          "lat": 37.31166,
+          "lon": -121.86907
+        },
+        "toStopName": "Monterey & Phelan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.86907,
+            37.31166
+          ],
+          [
+            -121.87036,
+            37.31294
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 16.08457123098202,
+        "averageTravelSpeed": 11.358711238014486,
+        "fromStopId": "3204",
+        "fromStopLoc": {
+          "lat": 37.31166,
+          "lon": -121.86907
+        },
+        "fromStopName": "Monterey & Phelan",
+        "numTrips": 723,
+        "pathLengthMeters": 182.7,
+        "toStopId": "3205",
+        "toStopLoc": {
+          "lat": 37.31294,
+          "lon": -121.87036
+        },
+        "toStopName": "Monterey & San Jose Avenue"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.8724,
+            37.31495
+          ],
+          [
+            -121.87422,
+            37.3168
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 56.85354633471645,
+        "averageTravelSpeed": 4.59250155588913,
+        "fromStopId": "5822",
+        "fromStopLoc": {
+          "lat": 37.31495,
+          "lon": -121.8724
+        },
+        "fromStopName": "Monterey & Cottage Grove",
+        "numTrips": 723,
+        "pathLengthMeters": 261.1,
+        "toStopId": "3206",
+        "toStopLoc": {
+          "lat": 37.3168,
+          "lon": -121.87422
+        },
+        "toStopName": "1st & Alma"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.87422,
+            37.3168
+          ],
+          [
+            -121.87582,
+            37.31841
+          ],
+          [
+            -121.87685,
+            37.31931
+          ],
+          [
+            -121.87692,
+            37.31933
+          ],
+          [
+            -121.87738,
+            37.3198
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 51.26817704011069,
+        "averageTravelSpeed": 8.494548180624362,
+        "fromStopId": "3206",
+        "fromStopLoc": {
+          "lat": 37.3168,
+          "lon": -121.87422
+        },
+        "fromStopName": "1st & Alma",
+        "numTrips": 723,
+        "pathLengthMeters": 435.5,
+        "toStopId": "3207",
+        "toStopLoc": {
+          "lat": 37.3198,
+          "lon": -121.87738
+        },
+        "toStopName": "1st & Keyes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.87738,
+            37.3198
+          ],
+          [
+            -121.88045,
+            37.32289
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 43.06626556016594,
+        "averageTravelSpeed": 10.177339369898949,
+        "fromStopId": "3207",
+        "fromStopLoc": {
+          "lat": 37.3198,
+          "lon": -121.87738
+        },
+        "fromStopName": "1st & Keyes",
+        "numTrips": 723,
+        "pathLengthMeters": 438.3,
+        "toStopId": "3208",
+        "toStopLoc": {
+          "lat": 37.32289,
+          "lon": -121.88045
+        },
+        "toStopName": "1st & Martha"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.88045,
+            37.32289
+          ],
+          [
+            -121.88136,
+            37.32383
+          ],
+          [
+            -121.88165,
+            37.32421
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 12.1144827109267,
+        "averageTravelSpeed": 14.94904935863718,
+        "fromStopId": "3208",
+        "fromStopLoc": {
+          "lat": 37.32289,
+          "lon": -121.88045
+        },
+        "fromStopName": "1st & Martha",
+        "numTrips": 723,
+        "pathLengthMeters": 181.1,
+        "toStopId": "3209",
+        "toStopLoc": {
+          "lat": 37.32421,
+          "lon": -121.88165
+        },
+        "toStopName": "1st & Virginia"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.88165,
+            37.32421
+          ],
+          [
+            -121.88292,
+            37.32587
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 12.173356846473036,
+        "averageTravelSpeed": 17.792955774787387,
+        "fromStopId": "3209",
+        "fromStopLoc": {
+          "lat": 37.32421,
+          "lon": -121.88165
+        },
+        "fromStopName": "1st & Virginia",
+        "numTrips": 723,
+        "pathLengthMeters": 216.6,
+        "toStopId": "3210",
+        "toStopLoc": {
+          "lat": 37.32587,
+          "lon": -121.88292
+        },
+        "toStopName": "1st & Margaret"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.88292,
+            37.32587
+          ],
+          [
+            -121.88379,
+            37.32706
+          ],
+          [
+            -121.88406,
+            37.32744
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 38.78482710926692,
+        "averageTravelSpeed": 5.200487279001109,
+        "fromStopId": "3210",
+        "fromStopLoc": {
+          "lat": 37.32587,
+          "lon": -121.88292
+        },
+        "fromStopName": "1st & Margaret",
+        "numTrips": 723,
+        "pathLengthMeters": 201.7,
+        "toStopId": "3211",
+        "toStopLoc": {
+          "lat": 37.32744,
+          "lon": -121.88406
+        },
+        "toStopName": "1st & Reed"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.88406,
+            37.32744
+          ],
+          [
+            -121.88669,
+            37.33083
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 56.236280774550515,
+        "averageTravelSpeed": 7.861472947906442,
+        "fromStopId": "3211",
+        "fromStopLoc": {
+          "lat": 37.32744,
+          "lon": -121.88406
+        },
+        "fromStopName": "1st & Reed",
+        "numTrips": 723,
+        "pathLengthMeters": 442.1,
+        "toStopId": "3212",
+        "toStopLoc": {
+          "lat": 37.33083,
+          "lon": -121.88669
+        },
+        "toStopName": "1st & San Salvador"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.78934,
+            37.23674
+          ],
+          [
+            -121.78921,
+            37.23707
+          ],
+          [
+            -121.78933,
+            37.23724
+          ],
+          [
+            -121.78954,
+            37.23733
+          ],
+          [
+            -121.78973,
+            37.23731
+          ],
+          [
+            -121.78984,
+            37.23727
+          ],
+          [
+            -121.7914,
+            37.23553
+          ],
+          [
+            -121.79267,
+            37.23625
+          ],
+          [
+            -121.7931,
+            37.23642
+          ],
+          [
+            -121.7942,
+            37.23671
+          ],
+          [
+            -121.79449,
+            37.23678
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 81.18503039073809,
+        "averageTravelSpeed": 8.077843869044314,
+        "fromStopId": "3406",
+        "fromStopLoc": {
+          "lat": 37.23674,
+          "lon": -121.78934
+        },
+        "fromStopName": "Santa Teresa Station",
+        "numTrips": 691,
+        "pathLengthMeters": 655.8,
+        "toStopId": "3305",
+        "toStopLoc": {
+          "lat": 37.23678,
+          "lon": -121.79449
+        },
+        "toStopName": "Santa Teresa & Miyuki"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.79449,
+            37.23678
+          ],
+          [
+            -121.79532,
+            37.23689
+          ],
+          [
+            -121.79809,
+            37.23691
+          ],
+          [
+            -121.7995,
+            37.237
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 31.229108538350236,
+        "averageTravelSpeed": 14.24632404904066,
+        "fromStopId": "3305",
+        "fromStopLoc": {
+          "lat": 37.23678,
+          "lon": -121.79449
+        },
+        "fromStopName": "Santa Teresa & Miyuki",
+        "numTrips": 691,
+        "pathLengthMeters": 444.9,
+        "toStopId": "3306",
+        "toStopLoc": {
+          "lat": 37.237,
+          "lon": -121.7995
+        },
+        "toStopName": "Santa Teresa & Del Canto"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.5708,
+            37.0117
+          ],
+          [
+            -121.5712,
+            37.01262
+          ],
+          [
+            -121.5725,
+            37.01505
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 38.564851032448395,
+        "averageTravelSpeed": 10.423999814280572,
+        "fromStopId": "3357",
+        "fromStopLoc": {
+          "lat": 37.0117,
+          "lon": -121.5708
+        },
+        "fromStopName": "Monterey & 3rd",
+        "numTrips": 678,
+        "pathLengthMeters": 402,
+        "toStopId": "3356",
+        "toStopLoc": {
+          "lat": 37.01505,
+          "lon": -121.5725
+        },
+        "toStopName": "Monterey & 1st"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.56927,
+            37.00826
+          ],
+          [
+            -121.5708,
+            37.0117
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 51.91002359882007,
+        "averageTravelSpeed": 7.817372674229029,
+        "fromStopId": "5359",
+        "fromStopLoc": {
+          "lat": 37.00826,
+          "lon": -121.56927
+        },
+        "fromStopName": "Monterey & 5th",
+        "numTrips": 678,
+        "pathLengthMeters": 405.8,
+        "toStopId": "3357",
+        "toStopLoc": {
+          "lat": 37.0117,
+          "lon": -121.5708
+        },
+        "toStopName": "Monterey & 3rd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.5725,
+            37.01505
+          ],
+          [
+            -121.5736,
+            37.01711
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 14.604013274336276,
+        "averageTravelSpeed": 17.0227180248368,
+        "fromStopId": "3356",
+        "fromStopLoc": {
+          "lat": 37.01505,
+          "lon": -121.5725
+        },
+        "fromStopName": "Monterey & 1st",
+        "numTrips": 678,
+        "pathLengthMeters": 248.6,
+        "toStopId": "3358",
+        "toStopLoc": {
+          "lat": 37.01711,
+          "lon": -121.5736
+        },
+        "toStopName": "Monterey & Howson"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.5736,
+            37.01711
+          ],
+          [
+            -121.57397,
+            37.01783
+          ],
+          [
+            -121.57405,
+            37.0181
+          ],
+          [
+            -121.5747,
+            37.01948
+          ],
+          [
+            -121.5749,
+            37.01983
+          ],
+          [
+            -121.57501,
+            37.01989
+          ],
+          [
+            -121.57548,
+            37.02081
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 59.42016076696161,
+        "averageTravelSpeed": 7.522699269580871,
+        "fromStopId": "3358",
+        "fromStopLoc": {
+          "lat": 37.01711,
+          "lon": -121.5736
+        },
+        "fromStopName": "Monterey & Howson",
+        "numTrips": 678,
+        "pathLengthMeters": 447,
+        "toStopId": "3359",
+        "toStopLoc": {
+          "lat": 37.02081,
+          "lon": -121.57548
+        },
+        "toStopName": "Monterey & Leavesley"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.57548,
+            37.02081
+          ],
+          [
+            -121.57806,
+            37.02574
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 30.11142625368732,
+        "averageTravelSpeed": 19.7167678142545,
+        "fromStopId": "3359",
+        "fromStopLoc": {
+          "lat": 37.02081,
+          "lon": -121.57548
+        },
+        "fromStopName": "Monterey & Leavesley",
+        "numTrips": 678,
+        "pathLengthMeters": 593.7,
+        "toStopId": "3360",
+        "toStopLoc": {
+          "lat": 37.02574,
+          "lon": -121.57806
+        },
+        "toStopName": "Monterey & Ronan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.57806,
+            37.02574
+          ],
+          [
+            -121.58017,
+            37.0298
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 29.445334808259584,
+        "averageTravelSpeed": 16.603648869458965,
+        "fromStopId": "3360",
+        "fromStopLoc": {
+          "lat": 37.02574,
+          "lon": -121.57806
+        },
+        "fromStopName": "Monterey & Ronan",
+        "numTrips": 678,
+        "pathLengthMeters": 488.9,
+        "toStopId": "3361",
+        "toStopLoc": {
+          "lat": 37.0298,
+          "lon": -121.58017
+        },
+        "toStopName": "Monterey & Las Animas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.58017,
+            37.0298
+          ],
+          [
+            -121.58136,
+            37.03213
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 18.552215339233033,
+        "averageTravelSpeed": 15.070976424509256,
+        "fromStopId": "3361",
+        "fromStopLoc": {
+          "lat": 37.0298,
+          "lon": -121.58017
+        },
+        "fromStopName": "Monterey & Las Animas",
+        "numTrips": 678,
+        "pathLengthMeters": 279.6,
+        "toStopId": "3362",
+        "toStopLoc": {
+          "lat": 37.03213,
+          "lon": -121.58136
+        },
+        "toStopName": "Monterey & Farrell"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.58136,
+            37.03213
+          ],
+          [
+            -121.58276,
+            37.03485
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 16.181899705014725,
+        "averageTravelSpeed": 20.238662083569128,
+        "fromStopId": "3362",
+        "fromStopLoc": {
+          "lat": 37.03213,
+          "lon": -121.58136
+        },
+        "fromStopName": "Monterey & Farrell",
+        "numTrips": 678,
+        "pathLengthMeters": 327.5,
+        "toStopId": "3363",
+        "toStopLoc": {
+          "lat": 37.03485,
+          "lon": -121.58276
+        },
+        "toStopName": "Monterey & Cohansey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.58276,
+            37.03485
+          ],
+          [
+            -121.58631,
+            37.04174
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 37.48316519174038,
+        "averageTravelSpeed": 22.10325610876011,
+        "fromStopId": "3363",
+        "fromStopLoc": {
+          "lat": 37.03485,
+          "lon": -121.58276
+        },
+        "fromStopName": "Monterey & Cohansey",
+        "numTrips": 678,
+        "pathLengthMeters": 828.5,
+        "toStopId": "3364",
+        "toStopLoc": {
+          "lat": 37.04174,
+          "lon": -121.58631
+        },
+        "toStopName": "Monterey & Buena Vista"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.58631,
+            37.04174
+          ],
+          [
+            -121.59059,
+            37.05004
+          ],
+          [
+            -121.59058,
+            37.05011
+          ],
+          [
+            -121.59083,
+            37.05065
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 46.85898230088497,
+        "averageTravelSpeed": 22.82379914127588,
+        "fromStopId": "3364",
+        "fromStopLoc": {
+          "lat": 37.04174,
+          "lon": -121.58631
+        },
+        "fromStopName": "Monterey & Buena Vista",
+        "numTrips": 678,
+        "pathLengthMeters": 1069.5,
+        "toStopId": "3365",
+        "toStopLoc": {
+          "lat": 37.05065,
+          "lon": -121.59083
+        },
+        "toStopName": "Monterey & Rucker"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.59083,
+            37.05065
+          ],
+          [
+            -121.59181,
+            37.05262
+          ],
+          [
+            -121.59347,
+            37.05573
+          ],
+          [
+            -121.59356,
+            37.05578
+          ],
+          [
+            -121.59403,
+            37.05669
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 72.13050294985239,
+        "averageTravelSpeed": 10.127476866588173,
+        "fromStopId": "3365",
+        "fromStopLoc": {
+          "lat": 37.05065,
+          "lon": -121.59083
+        },
+        "fromStopName": "Monterey & Rucker",
+        "numTrips": 678,
+        "pathLengthMeters": 730.5,
+        "toStopId": "3366",
+        "toStopLoc": {
+          "lat": 37.05669,
+          "lon": -121.59403
+        },
+        "toStopName": "Monterey & Masten"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.59403,
+            37.05669
+          ],
+          [
+            -121.59688,
+            37.06185
+          ],
+          [
+            -121.59686,
+            37.06194
+          ],
+          [
+            -121.60021,
+            37.06805
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 62.144610619469,
+        "averageTravelSpeed": 22.186960160436534,
+        "fromStopId": "3366",
+        "fromStopLoc": {
+          "lat": 37.05669,
+          "lon": -121.59403
+        },
+        "fromStopName": "Monterey & Masten",
+        "numTrips": 678,
+        "pathLengthMeters": 1378.8,
+        "toStopId": "3367",
+        "toStopLoc": {
+          "lat": 37.06805,
+          "lon": -121.60021
+        },
+        "toStopName": "Monterey & Church"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.60021,
+            37.06805
+          ],
+          [
+            -121.60113,
+            37.06961
+          ],
+          [
+            -121.60404,
+            37.07431
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 34.989944035346106,
+        "averageTravelSpeed": 22.13778905212067,
+        "fromStopId": "3367",
+        "fromStopLoc": {
+          "lat": 37.06805,
+          "lon": -121.60021
+        },
+        "fromStopName": "Monterey & Church",
+        "numTrips": 679,
+        "pathLengthMeters": 774.6,
+        "toStopId": "3368",
+        "toStopLoc": {
+          "lat": 37.07431,
+          "lon": -121.60404
+        },
+        "toStopName": "Monterey & Highland"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.60404,
+            37.07431
+          ],
+          [
+            -121.60436,
+            37.07485
+          ],
+          [
+            -121.60446,
+            37.0749
+          ],
+          [
+            -121.60577,
+            37.07703
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 13.480350515463915,
+        "averageTravelSpeed": 25.273823526262742,
+        "fromStopId": "3368",
+        "fromStopLoc": {
+          "lat": 37.07431,
+          "lon": -121.60404
+        },
+        "fromStopName": "Monterey & Highland",
+        "numTrips": 679,
+        "pathLengthMeters": 340.7,
+        "toStopId": "3369",
+        "toStopLoc": {
+          "lat": 37.07703,
+          "lon": -121.60577
+        },
+        "toStopName": "Monterey & Highland"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.60577,
+            37.07703
+          ],
+          [
+            -121.60743,
+            37.07985
+          ],
+          [
+            -121.60776,
+            37.08043
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 16.416157584683386,
+        "averageTravelSpeed": 25.359162023908475,
+        "fromStopId": "3369",
+        "fromStopLoc": {
+          "lat": 37.07703,
+          "lon": -121.60577
+        },
+        "fromStopName": "Monterey & Highland",
+        "numTrips": 679,
+        "pathLengthMeters": 416.3,
+        "toStopId": "3370",
+        "toStopLoc": {
+          "lat": 37.08043,
+          "lon": -121.60776
+        },
+        "toStopName": "Monterey & Cox"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.60776,
+            37.08043
+          ],
+          [
+            -121.60989,
+            37.08407
+          ],
+          [
+            -121.61028,
+            37.08482
+          ],
+          [
+            -121.61055,
+            37.08524
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 54.50483652430051,
+        "averageTravelSpeed": 10.813719251083729,
+        "fromStopId": "3370",
+        "fromStopLoc": {
+          "lat": 37.08043,
+          "lon": -121.60776
+        },
+        "fromStopName": "Monterey & Cox",
+        "numTrips": 679,
+        "pathLengthMeters": 589.4,
+        "toStopId": "3371",
+        "toStopLoc": {
+          "lat": 37.08524,
+          "lon": -121.61055
+        },
+        "toStopName": "Monterey & San Martin"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.61055,
+            37.08524
+          ],
+          [
+            -121.6122,
+            37.08811
+          ],
+          [
+            -121.61243,
+            37.08851
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 20.573633284241524,
+        "averageTravelSpeed": 19.48124545930323,
+        "fromStopId": "3371",
+        "fromStopLoc": {
+          "lat": 37.08524,
+          "lon": -121.61055
+        },
+        "fromStopName": "Monterey & San Martin",
+        "numTrips": 679,
+        "pathLengthMeters": 400.8,
+        "toStopId": "3372",
+        "toStopLoc": {
+          "lat": 37.08851,
+          "lon": -121.61243
+        },
+        "toStopName": "Monterey & Roosevelt"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.61243,
+            37.08851
+          ],
+          [
+            -121.61461,
+            37.09229
+          ],
+          [
+            -121.6146,
+            37.09237
+          ],
+          [
+            -121.61487,
+            37.09285
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 21.89488823529412,
+        "averageTravelSpeed": 24.188294286256987,
+        "fromStopId": "3372",
+        "fromStopLoc": {
+          "lat": 37.08851,
+          "lon": -121.61243
+        },
+        "fromStopName": "Monterey & Roosevelt",
+        "numTrips": 680,
+        "pathLengthMeters": 529.6,
+        "toStopId": "3373",
+        "toStopLoc": {
+          "lat": 37.09285,
+          "lon": -121.61487
+        },
+        "toStopName": "Monterey & California"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.61487,
+            37.09285
+          ],
+          [
+            -121.61592,
+            37.09463
+          ],
+          [
+            -121.61647,
+            37.09535
+          ],
+          [
+            -121.61713,
+            37.09615
+          ],
+          [
+            -121.61724,
+            37.09618
+          ],
+          [
+            -121.61799,
+            37.09682
+          ],
+          [
+            -121.61903,
+            37.09748
+          ],
+          [
+            -121.62072,
+            37.09846
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 35.10017327459616,
+        "averageTravelSpeed": 23.655153879281038,
+        "fromStopId": "3373",
+        "fromStopLoc": {
+          "lat": 37.09285,
+          "lon": -121.61487
+        },
+        "fromStopName": "Monterey & California",
+        "numTrips": 681,
+        "pathLengthMeters": 830.3,
+        "toStopId": "3374",
+        "toStopLoc": {
+          "lat": 37.09846,
+          "lon": -121.62072
+        },
+        "toStopName": "Monterey & Crowner"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.62072,
+            37.09846
+          ],
+          [
+            -121.62308,
+            37.09994
+          ],
+          [
+            -121.62317,
+            37.10005
+          ],
+          [
+            -121.62364,
+            37.10034
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 14.301750733137837,
+        "averageTravelSpeed": 23.353784178751354,
+        "fromStopId": "3374",
+        "fromStopLoc": {
+          "lat": 37.09846,
+          "lon": -121.62072
+        },
+        "fromStopName": "Monterey & Crowner",
+        "numTrips": 682,
+        "pathLengthMeters": 334,
+        "toStopId": "3375",
+        "toStopLoc": {
+          "lat": 37.10034,
+          "lon": -121.62364
+        },
+        "toStopName": "Monterey & East Middle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.62364,
+            37.10034
+          ],
+          [
+            -121.62827,
+            37.10323
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 24.939721574343977,
+        "averageTravelSpeed": 20.902398547074093,
+        "fromStopId": "3375",
+        "fromStopLoc": {
+          "lat": 37.10034,
+          "lon": -121.62364
+        },
+        "fromStopName": "Monterey & East Middle",
+        "numTrips": 686,
+        "pathLengthMeters": 521.3,
+        "toStopId": "3376",
+        "toStopLoc": {
+          "lat": 37.10323,
+          "lon": -121.62827
+        },
+        "toStopName": "Monterey & West Middle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.62827,
+            37.10323
+          ],
+          [
+            -121.62854,
+            37.1034
+          ],
+          [
+            -121.62868,
+            37.10343
+          ],
+          [
+            -121.63161,
+            37.10524
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 19.337050724637656,
+        "averageTravelSpeed": 19.242851730533097,
+        "fromStopId": "3376",
+        "fromStopLoc": {
+          "lat": 37.10323,
+          "lon": -121.62827
+        },
+        "fromStopName": "Monterey & West Middle",
+        "numTrips": 690,
+        "pathLengthMeters": 372.1,
+        "toStopId": "3377",
+        "toStopLoc": {
+          "lat": 37.10524,
+          "lon": -121.63161
+        },
+        "toStopName": "Monterey & Maple Leaf"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.63161,
+            37.10524
+          ],
+          [
+            -121.63568,
+            37.10788
+          ],
+          [
+            -121.63573,
+            37.10799
+          ],
+          [
+            -121.63607,
+            37.10822
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 55.31338405797107,
+        "averageTravelSpeed": 9.357590550914955,
+        "fromStopId": "3377",
+        "fromStopLoc": {
+          "lat": 37.10524,
+          "lon": -121.63161
+        },
+        "fromStopName": "Monterey & Maple Leaf",
+        "numTrips": 690,
+        "pathLengthMeters": 517.6,
+        "toStopId": "3378",
+        "toStopLoc": {
+          "lat": 37.10822,
+          "lon": -121.63607
+        },
+        "toStopName": "Monterey & Watsonville"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.64102,
+            37.11133
+          ],
+          [
+            -121.64178,
+            37.11192
+          ],
+          [
+            -121.64246,
+            37.11257
+          ],
+          [
+            -121.64284,
+            37.11303
+          ],
+          [
+            -121.64315,
+            37.11348
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 58.61797105643997,
+        "averageTravelSpeed": 5.235595747667607,
+        "fromStopId": "146",
+        "fromStopLoc": {
+          "lat": 37.11133,
+          "lon": -121.64102
+        },
+        "fromStopName": "Monterey & Vineyard",
+        "numTrips": 691,
+        "pathLengthMeters": 306.9,
+        "toStopId": "3379",
+        "toStopLoc": {
+          "lat": 37.11348,
+          "lon": -121.64315
+        },
+        "toStopName": "Monterey & Tennant"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.64315,
+            37.11348
+          ],
+          [
+            -121.6437,
+            37.11441
+          ],
+          [
+            -121.64613,
+            37.11867
+          ],
+          [
+            -121.64624,
+            37.11872
+          ],
+          [
+            -121.64631,
+            37.11884
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 43.69068885672932,
+        "averageTravelSpeed": 15.103904682390032,
+        "fromStopId": "3379",
+        "fromStopLoc": {
+          "lat": 37.11348,
+          "lon": -121.64315
+        },
+        "fromStopName": "Monterey & Tennant",
+        "numTrips": 691,
+        "pathLengthMeters": 659.9,
+        "toStopId": "3380",
+        "toStopLoc": {
+          "lat": 37.11884,
+          "lon": -121.64631
+        },
+        "toStopName": "Monterey & Cosmo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.64631,
+            37.11884
+          ],
+          [
+            -121.64851,
+            37.12268
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 31.01978292329957,
+        "averageTravelSpeed": 15.125831188443767,
+        "fromStopId": "3380",
+        "fromStopLoc": {
+          "lat": 37.11884,
+          "lon": -121.64631
+        },
+        "fromStopName": "Monterey & Cosmo",
+        "numTrips": 691,
+        "pathLengthMeters": 469.2,
+        "toStopId": "3381",
+        "toStopLoc": {
+          "lat": 37.12268,
+          "lon": -121.64851
+        },
+        "toStopName": "Monterey & Bisceglia"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.65773,
+            37.12853
+          ],
+          [
+            -121.6583,
+            37.12822
+          ],
+          [
+            -121.66178,
+            37.1322
+          ],
+          [
+            -121.66261,
+            37.13321
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 66.30746164978292,
+        "averageTravelSpeed": 11.08774158605432,
+        "fromStopId": "159",
+        "fromStopLoc": {
+          "lat": 37.12853,
+          "lon": -121.65773
+        },
+        "fromStopName": "Main & Hale",
+        "numTrips": 691,
+        "pathLengthMeters": 735.2,
+        "toStopId": "3382",
+        "toStopLoc": {
+          "lat": 37.13321,
+          "lon": -121.66261
+        },
+        "toStopName": "Hale & Wright"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.66408,
+            37.13493
+          ],
+          [
+            -121.66561,
+            37.13667
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 9.511364688856734,
+        "averageTravelSpeed": 24.822936321284008,
+        "fromStopId": "5391",
+        "fromStopLoc": {
+          "lat": 37.13493,
+          "lon": -121.66408
+        },
+        "fromStopName": "Hale & Hillwood",
+        "numTrips": 691,
+        "pathLengthMeters": 236.1,
+        "toStopId": "3383",
+        "toStopLoc": {
+          "lat": 37.13667,
+          "lon": -121.66561
+        },
+        "toStopName": "Hale & Wright"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.66561,
+            37.13667
+          ],
+          [
+            -121.66649,
+            37.13767
+          ],
+          [
+            -121.66688,
+            37.13837
+          ],
+          [
+            -121.66745,
+            37.1397
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 25.824088277858156,
+        "averageTravelSpeed": 14.60264524898366,
+        "fromStopId": "3383",
+        "fromStopLoc": {
+          "lat": 37.13667,
+          "lon": -121.66561
+        },
+        "fromStopName": "Hale & Wright",
+        "numTrips": 691,
+        "pathLengthMeters": 377.1,
+        "toStopId": "3384",
+        "toStopLoc": {
+          "lat": 37.1397,
+          "lon": -121.66745
+        },
+        "toStopName": "Hale & Llagas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.66745,
+            37.1397
+          ],
+          [
+            -121.66842,
+            37.14196
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 11.22748191027498,
+        "averageTravelSpeed": 23.700772989576144,
+        "fromStopId": "3384",
+        "fromStopLoc": {
+          "lat": 37.1397,
+          "lon": -121.66745
+        },
+        "fromStopName": "Hale & Llagas",
+        "numTrips": 691,
+        "pathLengthMeters": 266.1,
+        "toStopId": "3385",
+        "toStopLoc": {
+          "lat": 37.14196,
+          "lon": -121.66842
+        },
+        "toStopName": "Hale & Via Loma"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.66842,
+            37.14196
+          ],
+          [
+            -121.66867,
+            37.14252
+          ],
+          [
+            -121.66867,
+            37.1426
+          ],
+          [
+            -121.66915,
+            37.14367
+          ],
+          [
+            -121.66919,
+            37.1437
+          ],
+          [
+            -121.66983,
+            37.14513
+          ],
+          [
+            -121.67018,
+            37.14558
+          ],
+          [
+            -121.67066,
+            37.14598
+          ],
+          [
+            -121.67817,
+            37.15022
+          ],
+          [
+            -121.67855,
+            37.15039
+          ],
+          [
+            -121.67926,
+            37.1506
+          ],
+          [
+            -121.68075,
+            37.15078
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 75.92658465991312,
+        "averageTravelSpeed": 20.415774092080355,
+        "fromStopId": "3385",
+        "fromStopLoc": {
+          "lat": 37.14196,
+          "lon": -121.66842
+        },
+        "fromStopName": "Hale & Via Loma",
+        "numTrips": 691,
+        "pathLengthMeters": 1550.1,
+        "toStopId": "3386",
+        "toStopLoc": {
+          "lat": 37.15078,
+          "lon": -121.68075
+        },
+        "toStopName": "Hale & Tilton"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.68075,
+            37.15078
+          ],
+          [
+            -121.68115,
+            37.15082
+          ],
+          [
+            -121.68174,
+            37.15096
+          ],
+          [
+            -121.68269,
+            37.15131
+          ],
+          [
+            -121.68319,
+            37.15156
+          ],
+          [
+            -121.6841,
+            37.15222
+          ],
+          [
+            -121.68552,
+            37.1531
+          ],
+          [
+            -121.68554,
+            37.15314
+          ],
+          [
+            -121.68685,
+            37.15398
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 34.84853979739506,
+        "averageTravelSpeed": 18.864491993697275,
+        "fromStopId": "3386",
+        "fromStopLoc": {
+          "lat": 37.15078,
+          "lon": -121.68075
+        },
+        "fromStopName": "Hale & Tilton",
+        "numTrips": 691,
+        "pathLengthMeters": 657.4,
+        "toStopId": "3387",
+        "toStopLoc": {
+          "lat": 37.15398,
+          "lon": -121.68685
+        },
+        "toStopName": "Hale & Willow Spring"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.68685,
+            37.15398
+          ],
+          [
+            -121.68856,
+            37.15501
+          ],
+          [
+            -121.68873,
+            37.15508
+          ],
+          [
+            -121.69222,
+            37.15726
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 24.914248914616522,
+        "averageTravelSpeed": 24.070563076383657,
+        "fromStopId": "3387",
+        "fromStopLoc": {
+          "lat": 37.15398,
+          "lon": -121.68685
+        },
+        "fromStopName": "Hale & Willow Spring",
+        "numTrips": 691,
+        "pathLengthMeters": 599.7,
+        "toStopId": "3388",
+        "toStopLoc": {
+          "lat": 37.15726,
+          "lon": -121.69222
+        },
+        "toStopName": "Hale & Madrone"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.69222,
+            37.15726
+          ],
+          [
+            -121.69574,
+            37.1594
+          ],
+          [
+            -121.6972,
+            37.16033
+          ],
+          [
+            -121.69723,
+            37.1604
+          ],
+          [
+            -121.69816,
+            37.16099
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 28.174593342981186,
+        "averageTravelSpeed": 23.837078740563545,
+        "fromStopId": "3388",
+        "fromStopLoc": {
+          "lat": 37.15726,
+          "lon": -121.69222
+        },
+        "fromStopName": "Hale & Madrone",
+        "numTrips": 691,
+        "pathLengthMeters": 671.6,
+        "toStopId": "3389",
+        "toStopLoc": {
+          "lat": 37.16099,
+          "lon": -121.69816
+        },
+        "toStopName": "Hale & Live Oak"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.69816,
+            37.16099
+          ],
+          [
+            -121.69961,
+            37.16188
+          ],
+          [
+            -121.6997,
+            37.16189
+          ],
+          [
+            -121.70406,
+            37.16453
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 28.539379160636738,
+        "averageTravelSpeed": 22.985783828990765,
+        "fromStopId": "3389",
+        "fromStopLoc": {
+          "lat": 37.16099,
+          "lon": -121.69816
+        },
+        "fromStopName": "Hale & Live Oak",
+        "numTrips": 691,
+        "pathLengthMeters": 656,
+        "toStopId": "3390",
+        "toStopLoc": {
+          "lat": 37.16453,
+          "lon": -121.70406
+        },
+        "toStopName": "Hale & Miramonte"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.70406,
+            37.16453
+          ],
+          [
+            -121.70517,
+            37.16523
+          ],
+          [
+            -121.70621,
+            37.16618
+          ],
+          [
+            -121.70824,
+            37.16815
+          ],
+          [
+            -121.70826,
+            37.16823
+          ],
+          [
+            -121.70976,
+            37.16966
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 33.24171490593342,
+        "averageTravelSpeed": 23.01024487348186,
+        "fromStopId": "3390",
+        "fromStopLoc": {
+          "lat": 37.16453,
+          "lon": -121.70406
+        },
+        "fromStopName": "Hale & Miramonte",
+        "numTrips": 691,
+        "pathLengthMeters": 764.9,
+        "toStopId": "3391",
+        "toStopLoc": {
+          "lat": 37.16966,
+          "lon": -121.70976
+        },
+        "toStopName": "Hale & San Bruno"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.70976,
+            37.16966
+          ],
+          [
+            -121.71111,
+            37.171
+          ],
+          [
+            -121.7112,
+            37.17103
+          ],
+          [
+            -121.71354,
+            37.17333
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 21.32998697539794,
+        "averageTravelSpeed": 24.810141731937325,
+        "fromStopId": "3391",
+        "fromStopLoc": {
+          "lat": 37.16966,
+          "lon": -121.70976
+        },
+        "fromStopName": "Hale & San Bruno",
+        "numTrips": 691,
+        "pathLengthMeters": 529.2,
+        "toStopId": "3392",
+        "toStopLoc": {
+          "lat": 37.17333,
+          "lon": -121.71354
+        },
+        "toStopName": "Hale & Kalana"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.71354,
+            37.17333
+          ],
+          [
+            -121.71732,
+            37.17698
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 21.064707670043415,
+        "averageTravelSpeed": 24.999160123588588,
+        "fromStopId": "3392",
+        "fromStopLoc": {
+          "lat": 37.17333,
+          "lon": -121.71354
+        },
+        "fromStopName": "Hale & Kalana",
+        "numTrips": 691,
+        "pathLengthMeters": 526.6,
+        "toStopId": "3393",
+        "toStopLoc": {
+          "lat": 37.17698,
+          "lon": -121.71732
+        },
+        "toStopName": "Santa Teresa & Palm"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.71732,
+            37.17698
+          ],
+          [
+            -121.72104,
+            37.18068
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 20.408413892908825,
+        "averageTravelSpeed": 25.842282637322057,
+        "fromStopId": "3393",
+        "fromStopLoc": {
+          "lat": 37.17698,
+          "lon": -121.71732
+        },
+        "fromStopName": "Santa Teresa & Palm",
+        "numTrips": 691,
+        "pathLengthMeters": 527.4,
+        "toStopId": "3394",
+        "toStopLoc": {
+          "lat": 37.18068,
+          "lon": -121.72104
+        },
+        "toStopName": "Santa Teresa & Scheller"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.72104,
+            37.18068
+          ],
+          [
+            -121.72665,
+            37.18606
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 31.221759768451527,
+        "averageTravelSpeed": 24.90570697381821,
+        "fromStopId": "3394",
+        "fromStopLoc": {
+          "lat": 37.18068,
+          "lon": -121.72104
+        },
+        "fromStopName": "Santa Teresa & Scheller",
+        "numTrips": 691,
+        "pathLengthMeters": 777.6,
+        "toStopId": "3395",
+        "toStopLoc": {
+          "lat": 37.18606,
+          "lon": -121.72665
+        },
+        "toStopName": "Santa Teresa & Richmond"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.72665,
+            37.18606
+          ],
+          [
+            -121.72825,
+            37.18751
+          ],
+          [
+            -121.73215,
+            37.1913
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 29.76782923299567,
+        "averageTravelSpeed": 25.493965114487068,
+        "fromStopId": "3395",
+        "fromStopLoc": {
+          "lat": 37.18606,
+          "lon": -121.72665
+        },
+        "fromStopName": "Santa Teresa & Richmond",
+        "numTrips": 691,
+        "pathLengthMeters": 758.9,
+        "toStopId": "3396",
+        "toStopLoc": {
+          "lat": 37.1913,
+          "lon": -121.73215
+        },
+        "toStopName": "Santa Teresa & Laguna"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.73215,
+            37.1913
+          ],
+          [
+            -121.73354,
+            37.19272
+          ],
+          [
+            -121.73383,
+            37.19311
+          ],
+          [
+            -121.73406,
+            37.1936
+          ],
+          [
+            -121.73452,
+            37.19584
+          ],
+          [
+            -121.735,
+            37.19844
+          ],
+          [
+            -121.73522,
+            37.19927
+          ],
+          [
+            -121.73549,
+            37.19987
+          ],
+          [
+            -121.73594,
+            37.20057
+          ],
+          [
+            -121.73595,
+            37.20065
+          ],
+          [
+            -121.73646,
+            37.20133
+          ],
+          [
+            -121.73652,
+            37.20144
+          ],
+          [
+            -121.73693,
+            37.20184
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 110.6129464544139,
+        "averageTravelSpeed": 11.520351286593453,
+        "fromStopId": "3396",
+        "fromStopLoc": {
+          "lat": 37.1913,
+          "lon": -121.73215
+        },
+        "fromStopName": "Santa Teresa & Laguna",
+        "numTrips": 691,
+        "pathLengthMeters": 1274.3,
+        "toStopId": "3397",
+        "toStopLoc": {
+          "lat": 37.20184,
+          "lon": -121.73693
+        },
+        "toStopName": "Santa Teresa & Bailey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.73693,
+            37.20184
+          ],
+          [
+            -121.73761,
+            37.20239
+          ],
+          [
+            -121.74069,
+            37.20522
+          ],
+          [
+            -121.74625,
+            37.2102
+          ],
+          [
+            -121.747,
+            37.21075
+          ],
+          [
+            -121.74705,
+            37.21076
+          ],
+          [
+            -121.74998,
+            37.21286
+          ],
+          [
+            -121.75248,
+            37.21456
+          ],
+          [
+            -121.75386,
+            37.21539
+          ],
+          [
+            -121.75673,
+            37.21682
+          ],
+          [
+            -121.75806,
+            37.21742
+          ],
+          [
+            -121.75813,
+            37.21751
+          ],
+          [
+            -121.76017,
+            37.21847
+          ],
+          [
+            -121.76096,
+            37.21889
+          ],
+          [
+            -121.76156,
+            37.21933
+          ],
+          [
+            -121.76201,
+            37.21992
+          ],
+          [
+            -121.76217,
+            37.22019
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 138.48487409551365,
+        "averageTravelSpeed": 22.059448874488787,
+        "fromStopId": "3397",
+        "fromStopLoc": {
+          "lat": 37.20184,
+          "lon": -121.73693
+        },
+        "fromStopName": "Santa Teresa & Bailey",
+        "numTrips": 691,
+        "pathLengthMeters": 3054.9,
+        "toStopId": "3398",
+        "toStopLoc": {
+          "lat": 37.22019,
+          "lon": -121.76217
+        },
+        "toStopName": "Santa Teresa & Bayliss"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.76217,
+            37.22019
+          ],
+          [
+            -121.76275,
+            37.22143
+          ],
+          [
+            -121.76304,
+            37.22189
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 6.354088277858184,
+        "averageTravelSpeed": 32.10531410318455,
+        "fromStopId": "3398",
+        "fromStopLoc": {
+          "lat": 37.22019,
+          "lon": -121.76217
+        },
+        "fromStopName": "Santa Teresa & Bayliss",
+        "numTrips": 691,
+        "pathLengthMeters": 204,
+        "toStopId": "3399",
+        "toStopLoc": {
+          "lat": 37.22189,
+          "lon": -121.76304
+        },
+        "toStopName": "Santa Teresa & Cheltenham"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.76304,
+            37.22189
+          ],
+          [
+            -121.7637,
+            37.22256
+          ],
+          [
+            -121.76426,
+            37.22297
+          ],
+          [
+            -121.7651,
+            37.22341
+          ],
+          [
+            -121.76583,
+            37.22371
+          ],
+          [
+            -121.76654,
+            37.22391
+          ],
+          [
+            -121.76758,
+            37.2241
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 32.22656874095513,
+        "averageTravelSpeed": 15.049694055192349,
+        "fromStopId": "3399",
+        "fromStopLoc": {
+          "lat": 37.22189,
+          "lon": -121.76304
+        },
+        "fromStopName": "Santa Teresa & Cheltenham",
+        "numTrips": 691,
+        "pathLengthMeters": 485,
+        "toStopId": "3400",
+        "toStopLoc": {
+          "lat": 37.2241,
+          "lon": -121.76758
+        },
+        "toStopName": "Santa Teresa & Avenida Espana"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.76758,
+            37.2241
+          ],
+          [
+            -121.76953,
+            37.22444
+          ],
+          [
+            -121.77204,
+            37.2249
+          ],
+          [
+            -121.77316,
+            37.22516
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 34.6943531114327,
+        "averageTravelSpeed": 14.64791686323544,
+        "fromStopId": "3400",
+        "fromStopLoc": {
+          "lat": 37.2241,
+          "lon": -121.76758
+        },
+        "fromStopName": "Santa Teresa & Avenida Espana",
+        "numTrips": 691,
+        "pathLengthMeters": 508.2,
+        "toStopId": "3401",
+        "toStopLoc": {
+          "lat": 37.22516,
+          "lon": -121.77316
+        },
+        "toStopName": "Santa Teresa & Chantilley"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.77316,
+            37.22516
+          ],
+          [
+            -121.77381,
+            37.22535
+          ],
+          [
+            -121.77496,
+            37.22581
+          ],
+          [
+            -121.77542,
+            37.22603
+          ],
+          [
+            -121.77559,
+            37.22615
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 12.044380607814757,
+        "averageTravelSpeed": 20.117265294886852,
+        "fromStopId": "3401",
+        "fromStopLoc": {
+          "lat": 37.22516,
+          "lon": -121.77316
+        },
+        "fromStopName": "Santa Teresa & Chantilley",
+        "numTrips": 691,
+        "pathLengthMeters": 242.3,
+        "toStopId": "3402",
+        "toStopLoc": {
+          "lat": 37.22615,
+          "lon": -121.77559
+        },
+        "toStopName": "Santa Teresa & Bernal"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.77559,
+            37.22615
+          ],
+          [
+            -121.77685,
+            37.22698
+          ],
+          [
+            -121.78069,
+            37.22922
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 68.34003039073795,
+        "averageTravelSpeed": 8.30260093177979,
+        "fromStopId": "3402",
+        "fromStopLoc": {
+          "lat": 37.22615,
+          "lon": -121.77559
+        },
+        "fromStopName": "Santa Teresa & Bernal",
+        "numTrips": 691,
+        "pathLengthMeters": 567.4,
+        "toStopId": "3403",
+        "toStopLoc": {
+          "lat": 37.22922,
+          "lon": -121.78069
+        },
+        "toStopName": "Santa Teresa & Martinvale"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.78069,
+            37.22922
+          ],
+          [
+            -121.78402,
+            37.23122
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 31.69758465991315,
+        "averageTravelSpeed": 11.631801096387077,
+        "fromStopId": "3403",
+        "fromStopLoc": {
+          "lat": 37.22922,
+          "lon": -121.78069
+        },
+        "fromStopName": "Santa Teresa & Martinvale",
+        "numTrips": 691,
+        "pathLengthMeters": 368.7,
+        "toStopId": "3404",
+        "toStopLoc": {
+          "lat": 37.23122,
+          "lon": -121.78402
+        },
+        "toStopName": "Santa Teresa & Great Oaks"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.78402,
+            37.23122
+          ],
+          [
+            -121.78705,
+            37.23301
+          ],
+          [
+            -121.78754,
+            37.23329
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 32.186114327062185,
+        "averageTravelSpeed": 12.042460175881024,
+        "fromStopId": "3404",
+        "fromStopLoc": {
+          "lat": 37.23122,
+          "lon": -121.78402
+        },
+        "fromStopName": "Santa Teresa & Great Oaks",
+        "numTrips": 691,
+        "pathLengthMeters": 387.6,
+        "toStopId": "3405",
+        "toStopLoc": {
+          "lat": 37.23329,
+          "lon": -121.78754
+        },
+        "toStopName": "Santa Teresa & San Ignacio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.78754,
+            37.23329
+          ],
+          [
+            -121.78986,
+            37.23463
+          ],
+          [
+            -121.78951,
+            37.235
+          ],
+          [
+            -121.7893,
+            37.23566
+          ],
+          [
+            -121.78972,
+            37.23586
+          ],
+          [
+            -121.78955,
+            37.23631
+          ],
+          [
+            -121.78934,
+            37.23674
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 63.98174529667152,
+        "averageTravelSpeed": 8.239850250340487,
+        "fromStopId": "3405",
+        "fromStopLoc": {
+          "lat": 37.23329,
+          "lon": -121.78754
+        },
+        "fromStopName": "Santa Teresa & San Ignacio",
+        "numTrips": 691,
+        "pathLengthMeters": 527.2,
+        "toStopId": "3406",
+        "toStopLoc": {
+          "lat": 37.23674,
+          "lon": -121.78934
+        },
+        "toStopName": "Santa Teresa Station"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.80384,
+            37.24518
+          ],
+          [
+            -121.80385,
+            37.24596
+          ],
+          [
+            -121.8038,
+            37.24632
+          ],
+          [
+            -121.80385,
+            37.25063
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 61.96258755426907,
+        "averageTravelSpeed": 9.79139225695877,
+        "fromStopId": "1131",
+        "fromStopLoc": {
+          "lat": 37.24518,
+          "lon": -121.80384
+        },
+        "fromStopName": "Cottle & Raleigh",
+        "numTrips": 691,
+        "pathLengthMeters": 606.7,
+        "toStopId": "3407",
+        "toStopLoc": {
+          "lat": 37.25063,
+          "lon": -121.80385
+        },
+        "toStopName": "Cottle & Great Oaks"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.80385,
+            37.25063
+          ],
+          [
+            -121.80383,
+            37.25203
+          ],
+          [
+            -121.80375,
+            37.25251
+          ],
+          [
+            -121.80353,
+            37.25298
+          ],
+          [
+            -121.80306,
+            37.25363
+          ],
+          [
+            -121.80359,
+            37.25384
+          ],
+          [
+            -121.80374,
+            37.25398
+          ],
+          [
+            -121.8038,
+            37.25416
+          ],
+          [
+            -121.80378,
+            37.25433
+          ],
+          [
+            -121.80366,
+            37.2545
+          ],
+          [
+            -121.80327,
+            37.25482
+          ],
+          [
+            -121.80292,
+            37.25515
+          ],
+          [
+            -121.80225,
+            37.25566
+          ],
+          [
+            -121.80212,
+            37.25587
+          ],
+          [
+            -121.80201,
+            37.25596
+          ],
+          [
+            -121.80121,
+            37.25641
+          ],
+          [
+            -121.80098,
+            37.25643
+          ],
+          [
+            -121.80075,
+            37.25634
+          ],
+          [
+            -121.80062,
+            37.25617
+          ],
+          [
+            -121.80063,
+            37.25592
+          ],
+          [
+            -121.80123,
+            37.25532
+          ],
+          [
+            -121.80142,
+            37.2553
+          ],
+          [
+            -121.80176,
+            37.25537
+          ],
+          [
+            -121.80394,
+            37.25667
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 155.19181014492762,
+        "averageTravelSpeed": 8.099009856423672,
+        "fromStopId": "3407",
+        "fromStopLoc": {
+          "lat": 37.25063,
+          "lon": -121.80385
+        },
+        "fromStopName": "Cottle & Great Oaks",
+        "numTrips": 690,
+        "pathLengthMeters": 1256.9,
+        "toStopId": "3408",
+        "toStopLoc": {
+          "lat": 37.25667,
+          "lon": -121.80394
+        },
+        "toStopName": "Monterey & Blossom Hill"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.80394,
+            37.25667
+          ],
+          [
+            -121.80866,
+            37.25951
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 33.26682463768117,
+        "averageTravelSpeed": 15.73639821959545,
+        "fromStopId": "3408",
+        "fromStopLoc": {
+          "lat": 37.25667,
+          "lon": -121.80394
+        },
+        "fromStopName": "Monterey & Blossom Hill",
+        "numTrips": 690,
+        "pathLengthMeters": 523.5,
+        "toStopId": "3409",
+        "toStopLoc": {
+          "lat": 37.25951,
+          "lon": -121.80866
+        },
+        "toStopName": "Monterey & Roeder"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.80866,
+            37.25951
+          ],
+          [
+            -121.81044,
+            37.26057
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 46.93724673439765,
+        "averageTravelSpeed": 4.17578817754478,
+        "fromStopId": "3409",
+        "fromStopLoc": {
+          "lat": 37.25951,
+          "lon": -121.80866
+        },
+        "fromStopName": "Monterey & Roeder",
+        "numTrips": 689,
+        "pathLengthMeters": 196,
+        "toStopId": "3410",
+        "toStopLoc": {
+          "lat": 37.26057,
+          "lon": -121.81044
+        },
+        "toStopName": "Monterey & Roeder"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.81044,
+            37.26057
+          ],
+          [
+            -121.81364,
+            37.2625
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 28.38167128987518,
+        "averageTravelSpeed": 12.54682983123106,
+        "fromStopId": "3410",
+        "fromStopLoc": {
+          "lat": 37.26057,
+          "lon": -121.81044
+        },
+        "fromStopName": "Monterey & Roeder",
+        "numTrips": 721,
+        "pathLengthMeters": 356.1,
+        "toStopId": "3411",
+        "toStopLoc": {
+          "lat": 37.2625,
+          "lon": -121.81364
+        },
+        "toStopName": "Monterey & Edenview"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.81364,
+            37.2625
+          ],
+          [
+            -121.81761,
+            37.26488
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 24.166373611111126,
+        "averageTravelSpeed": 18.198841376754615,
+        "fromStopId": "3411",
+        "fromStopLoc": {
+          "lat": 37.2625,
+          "lon": -121.81364
+        },
+        "fromStopName": "Monterey & Edenview",
+        "numTrips": 720,
+        "pathLengthMeters": 439.8,
+        "toStopId": "3412",
+        "toStopLoc": {
+          "lat": 37.26488,
+          "lon": -121.81761
+        },
+        "toStopName": "Monterey & Bougainvillea"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.86408,
+            37.30653
+          ],
+          [
+            -121.86652,
+            37.30899
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 27.283822959889346,
+        "averageTravelSpeed": 12.769471511092556,
+        "fromStopId": "3203",
+        "fromStopLoc": {
+          "lat": 37.30653,
+          "lon": -121.86408
+        },
+        "fromStopName": "Monterey & Railroad Crossing",
+        "numTrips": 723,
+        "pathLengthMeters": 348.4,
+        "toStopId": "5255",
+        "toStopLoc": {
+          "lat": 37.30899,
+          "lon": -121.86652
+        },
+        "toStopName": "Monterey & Stauffer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.56666,
+            37.00393
+          ],
+          [
+            -121.56673,
+            37.00404
+          ],
+          [
+            -121.56686,
+            37.00409
+          ],
+          [
+            -121.56707,
+            37.00444
+          ],
+          [
+            -121.56749,
+            37.00536
+          ],
+          [
+            -121.56787,
+            37.00524
+          ],
+          [
+            -121.5685,
+            37.00649
+          ],
+          [
+            -121.56927,
+            37.00826
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 114.7877197640117,
+        "averageTravelSpeed": 4.990952004080282,
+        "fromStopId": "3352",
+        "fromStopLoc": {
+          "lat": 37.00393,
+          "lon": -121.56666
+        },
+        "fromStopName": "Gilroy Transit Center (Bay 6)",
+        "numTrips": 678,
+        "pathLengthMeters": 572.9,
+        "toStopId": "5359",
+        "toStopLoc": {
+          "lat": 37.00826,
+          "lon": -121.56927
+        },
+        "toStopName": "Monterey & 5th"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.66261,
+            37.13321
+          ],
+          [
+            -121.66408,
+            37.13493
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 10.908953690303903,
+        "averageTravelSpeed": 21.21193347861335,
+        "fromStopId": "3382",
+        "fromStopLoc": {
+          "lat": 37.13321,
+          "lon": -121.66261
+        },
+        "fromStopName": "Hale & Wright",
+        "numTrips": 691,
+        "pathLengthMeters": 231.4,
+        "toStopId": "5391",
+        "toStopLoc": {
+          "lat": 37.13493,
+          "lon": -121.66408
+        },
+        "toStopName": "Hale & Hillwood"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            -121.87036,
+            37.31294
+          ],
+          [
+            -121.8724,
+            37.31495
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "averageTravelSeconds": 35.33219363762101,
+        "averageTravelSpeed": 8.139885197894118,
+        "fromStopId": "3205",
+        "fromStopLoc": {
+          "lat": 37.31294,
+          "lon": -121.87036
+        },
+        "fromStopName": "Monterey & San Jose Avenue",
+        "numTrips": 723,
+        "pathLengthMeters": 287.6,
+        "toStopId": "5822",
+        "toStopLoc": {
+          "lat": 37.31495,
+          "lon": -121.8724
+        },
+        "toStopName": "Monterey & Cottage Grove"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.64102,
+          37.11133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 26.484490593342986,
+        "numTrips": 691,
+        "stopId": "146",
+        "stopName": "Monterey & Vineyard"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.65055,
+          37.12594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 34.950424023154845,
+        "numTrips": 691,
+        "stopId": "156",
+        "stopName": "Monterey & Dunne"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.6523,
+          37.12792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 15.819712011577428,
+        "numTrips": 691,
+        "stopId": "157",
+        "stopName": "Monterey & 3rd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.65483,
+          37.13012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 56.35847033285099,
+        "numTrips": 691,
+        "stopId": "158",
+        "stopName": "Main & Monterey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.65773,
+          37.12853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 43.49169753979742,
+        "numTrips": 691,
+        "stopId": "159",
+        "stopName": "Main & Hale"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.89232,
+          37.33533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 28.993017980636235,
+        "numTrips": 723,
+        "stopId": "441",
+        "stopName": "Santa Clara & Market"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.89415,
+          37.33446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 25.670356846473037,
+        "numTrips": 723,
+        "stopId": "442",
+        "stopName": "Santa Clara & Almaden Avenue"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.89573,
+          37.33371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 12.37168326417705,
+        "numTrips": 723,
+        "stopId": "443",
+        "stopName": "Santa Clara & Almaden Boulevard"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.89881,
+          37.3323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 12.922446749654208,
+        "numTrips": 723,
+        "stopId": "444",
+        "stopName": "Santa Clara & Delmas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.8883,
+          37.33292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 36.13045643153526,
+        "numTrips": 723,
+        "stopId": "608",
+        "stopName": "1st & Paseo De San Antonio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.89,
+          37.33524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 69.59871369294603,
+        "numTrips": 723,
+        "stopId": "609",
+        "stopName": "1st & Santa Clara"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.80207,
+          37.237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 20.898665701881313,
+        "numTrips": 691,
+        "stopId": "1128",
+        "stopName": "Santa Teresa & Camino Verde"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.80372,
+          37.2378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 22.819147612156318,
+        "numTrips": 691,
+        "stopId": "1129",
+        "stopName": "Cottle & Santa Teresa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.80381,
+          37.24219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 14.253619392185247,
+        "numTrips": 691,
+        "stopId": "1130",
+        "stopName": "Cottle Park & Ride"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.80384,
+          37.24518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 32.26040231548483,
+        "numTrips": 691,
+        "stopId": "1131",
+        "stopName": "Cottle & Raleigh"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.83567,
+          37.27862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 100.13232777777779,
+        "numTrips": 720,
+        "stopId": "1716",
+        "stopName": "Monterey & Senter"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.82252,
+          37.26805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 21.29476462395542,
+        "numTrips": 718,
+        "stopId": "1780",
+        "stopName": "Monterey & Branham"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.82569,
+          37.27028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 8.07542398884241,
+        "numTrips": 717,
+        "stopId": "1781",
+        "stopName": "Monterey & Valleyhaven"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.82945,
+          37.27291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 12.346733612273367,
+        "numTrips": 717,
+        "stopId": "1782",
+        "stopName": "Monterey & Skyway"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.83216,
+          37.27515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 7.045235704323572,
+        "numTrips": 717,
+        "stopId": "1783",
+        "stopName": "Monterey & Skyway"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.90207,
+          37.33042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": null,
+        "numTrips": 723,
+        "stopId": "3072",
+        "stopName": "San Jose Diridon Station (Bay 13)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.83938,
+          37.28227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 18.720948824343044,
+        "numTrips": 723,
+        "stopId": "3195",
+        "stopName": "Monterey & Rancho"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.84203,
+          37.2848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 12.554567081604425,
+        "numTrips": 723,
+        "stopId": "3196",
+        "stopName": "Monterey & Fehren"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.8455,
+          37.2881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 17.830272475795297,
+        "numTrips": 723,
+        "stopId": "3197",
+        "stopName": "Monterey & Southside"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.84844,
+          37.29086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 16.838040110650073,
+        "numTrips": 723,
+        "stopId": "3198",
+        "stopName": "Monterey & Lewis"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.851,
+          37.29336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 20.460540802212993,
+        "numTrips": 723,
+        "stopId": "3199",
+        "stopName": "Monterey & Lewis"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.85308,
+          37.29553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 15.838304287690182,
+        "numTrips": 723,
+        "stopId": "3200",
+        "stopName": "Monterey & Umbarger"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.85917,
+          37.30168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 17.830524204702623,
+        "numTrips": 723,
+        "stopId": "3201",
+        "stopName": "Monterey & Old Tully"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.86157,
+          37.30401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 139.63913692946076,
+        "numTrips": 723,
+        "stopId": "3202",
+        "stopName": "Monterey & Tully"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.86408,
+          37.30653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 29.85017980636239,
+        "numTrips": 723,
+        "stopId": "3203",
+        "stopName": "Monterey & Railroad Crossing"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.86907,
+          37.31166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 20.69232780082987,
+        "numTrips": 723,
+        "stopId": "3204",
+        "stopName": "Monterey & Phelan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.87036,
+          37.31294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 11.10271507607193,
+        "numTrips": 723,
+        "stopId": "3205",
+        "stopName": "Monterey & San Jose Avenue"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.87422,
+          37.3168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 34.051932226832676,
+        "numTrips": 723,
+        "stopId": "3206",
+        "stopName": "1st & Alma"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.87738,
+          37.3198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 85.13115076071918,
+        "numTrips": 723,
+        "stopId": "3207",
+        "stopName": "1st & Keyes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.88045,
+          37.32289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 21.994271092669425,
+        "numTrips": 723,
+        "stopId": "3208",
+        "stopName": "1st & Martha"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.88165,
+          37.32421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 23.16663623789765,
+        "numTrips": 723,
+        "stopId": "3209",
+        "stopName": "1st & Virginia"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.88292,
+          37.32587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 12.134182572614117,
+        "numTrips": 723,
+        "stopId": "3210",
+        "stopName": "1st & Margaret"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.88406,
+          37.32744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 6.718421853388675,
+        "numTrips": 723,
+        "stopId": "3211",
+        "stopName": "1st & Reed"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.88669,
+          37.33083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 26.2003637621024,
+        "numTrips": 723,
+        "stopId": "3212",
+        "stopName": "1st & San Salvador"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.79449,
+          37.23678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 7.374923299565853,
+        "numTrips": 691,
+        "stopId": "3305",
+        "stopName": "Santa Teresa & Miyuki"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.7995,
+          37.237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 11.105950795947898,
+        "numTrips": 691,
+        "stopId": "3306",
+        "stopName": "Santa Teresa & Del Canto"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.56666,
+          37.00393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": null,
+        "numTrips": 678,
+        "stopId": "3352",
+        "stopName": "Gilroy Transit Center (Bay 6)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.5725,
+          37.01505
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 29.883948377581113,
+        "numTrips": 678,
+        "stopId": "3356",
+        "stopName": "Monterey & 1st"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.5708,
+          37.0117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 22.299001474926225,
+        "numTrips": 678,
+        "stopId": "3357",
+        "stopName": "Monterey & 3rd"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.5736,
+          37.01711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 18.203079646017684,
+        "numTrips": 678,
+        "stopId": "3358",
+        "stopName": "Monterey & Howson"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.57548,
+          37.02081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 21.091144542772863,
+        "numTrips": 678,
+        "stopId": "3359",
+        "stopName": "Monterey & Leavesley"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.57806,
+          37.02574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 10.782429203539818,
+        "numTrips": 678,
+        "stopId": "3360",
+        "stopName": "Monterey & Ronan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.58017,
+          37.0298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 22.91838643067848,
+        "numTrips": 678,
+        "stopId": "3361",
+        "stopName": "Monterey & Las Animas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.58136,
+          37.03213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 23.87420648967552,
+        "numTrips": 678,
+        "stopId": "3362",
+        "stopName": "Monterey & Farrell"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.58276,
+          37.03485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 8.238970501474922,
+        "numTrips": 678,
+        "stopId": "3363",
+        "stopName": "Monterey & Cohansey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.58631,
+          37.04174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 8.331314159292035,
+        "numTrips": 678,
+        "stopId": "3364",
+        "stopName": "Monterey & Buena Vista"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.59083,
+          37.05065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 5.225843657817105,
+        "numTrips": 678,
+        "stopId": "3365",
+        "stopName": "Monterey & Rucker"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.59403,
+          37.05669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 6.265169616519182,
+        "numTrips": 678,
+        "stopId": "3366",
+        "stopName": "Monterey & Masten"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.60021,
+          37.06805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 9.495251840942558,
+        "numTrips": 679,
+        "stopId": "3367",
+        "stopName": "Monterey & Church"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.60404,
+          37.07431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 7.659360824742274,
+        "numTrips": 679,
+        "stopId": "3368",
+        "stopName": "Monterey & Highland"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.60577,
+          37.07703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 4.653415316642124,
+        "numTrips": 679,
+        "stopId": "3369",
+        "stopName": "Monterey & Highland"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.60776,
+          37.08043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 5.421786450662738,
+        "numTrips": 679,
+        "stopId": "3370",
+        "stopName": "Monterey & Cox"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.61055,
+          37.08524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 42.4434963181149,
+        "numTrips": 679,
+        "stopId": "3371",
+        "stopName": "Monterey & San Martin"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.61243,
+          37.08851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 7.755357352941174,
+        "numTrips": 680,
+        "stopId": "3372",
+        "stopName": "Monterey & Roosevelt"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.61487,
+          37.09285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 5.17101615271659,
+        "numTrips": 681,
+        "stopId": "3373",
+        "stopName": "Monterey & California"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.62072,
+          37.09846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 6.758919354838715,
+        "numTrips": 682,
+        "stopId": "3374",
+        "stopName": "Monterey & Crowner"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.62364,
+          37.10034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 12.028317784256554,
+        "numTrips": 686,
+        "stopId": "3375",
+        "stopName": "Monterey & East Middle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.62827,
+          37.10323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 5.401560869565216,
+        "numTrips": 690,
+        "stopId": "3376",
+        "stopName": "Monterey & West Middle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.63161,
+          37.10524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 13.995728985507236,
+        "numTrips": 690,
+        "stopId": "3377",
+        "stopName": "Monterey & Maple Leaf"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.63607,
+          37.10822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 7.786636758321275,
+        "numTrips": 691,
+        "stopId": "3378",
+        "stopName": "Monterey & Watsonville"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.64315,
+          37.11348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 22.566785817655553,
+        "numTrips": 691,
+        "stopId": "3379",
+        "stopName": "Monterey & Tennant"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.64631,
+          37.11884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 19.733117221418212,
+        "numTrips": 691,
+        "stopId": "3380",
+        "stopName": "Monterey & Cosmo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.64851,
+          37.12268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 15.16375687409552,
+        "numTrips": 691,
+        "stopId": "3381",
+        "stopName": "Monterey & Bisceglia"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.66261,
+          37.13321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 14.817444283646898,
+        "numTrips": 691,
+        "stopId": "3382",
+        "stopName": "Hale & Wright"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.66561,
+          37.13667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 9.121289435600575,
+        "numTrips": 691,
+        "stopId": "3383",
+        "stopName": "Hale & Wright"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.66745,
+          37.1397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 11.755095513748202,
+        "numTrips": 691,
+        "stopId": "3384",
+        "stopName": "Hale & Llagas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.66842,
+          37.14196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 5.246558610709115,
+        "numTrips": 691,
+        "stopId": "3385",
+        "stopName": "Hale & Via Loma"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.68075,
+          37.15078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 23.531260492040524,
+        "numTrips": 691,
+        "stopId": "3386",
+        "stopName": "Hale & Tilton"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.68685,
+          37.15398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 5.086969609261935,
+        "numTrips": 691,
+        "stopId": "3387",
+        "stopName": "Hale & Willow Spring"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.69222,
+          37.15726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 6.9349189580318376,
+        "numTrips": 691,
+        "stopId": "3388",
+        "stopName": "Hale & Madrone"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.69816,
+          37.16099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 5.346513748191026,
+        "numTrips": 691,
+        "stopId": "3389",
+        "stopName": "Hale & Live Oak"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.70406,
+          37.16453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 9.651173661360342,
+        "numTrips": 691,
+        "stopId": "3390",
+        "stopName": "Hale & Miramonte"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.70976,
+          37.16966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 6.950898697539796,
+        "numTrips": 691,
+        "stopId": "3391",
+        "stopName": "Hale & San Bruno"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.71354,
+          37.17333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 4.556959479015917,
+        "numTrips": 691,
+        "stopId": "3392",
+        "stopName": "Hale & Kalana"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.71732,
+          37.17698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 7.2420448625180915,
+        "numTrips": 691,
+        "stopId": "3393",
+        "stopName": "Santa Teresa & Palm"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.72104,
+          37.18068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 5.957479015918956,
+        "numTrips": 691,
+        "stopId": "3394",
+        "stopName": "Santa Teresa & Scheller"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.72665,
+          37.18606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 5.392671490593344,
+        "numTrips": 691,
+        "stopId": "3395",
+        "stopName": "Santa Teresa & Richmond"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.73215,
+          37.1913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 4.066290882778581,
+        "numTrips": 691,
+        "stopId": "3396",
+        "stopName": "Santa Teresa & Laguna"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.73693,
+          37.20184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 12.396590448625211,
+        "numTrips": 691,
+        "stopId": "3397",
+        "stopName": "Santa Teresa & Bailey"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.76217,
+          37.22019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 5.984793053545582,
+        "numTrips": 691,
+        "stopId": "3398",
+        "stopName": "Santa Teresa & Bayliss"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.76304,
+          37.22189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 6.436661360347323,
+        "numTrips": 691,
+        "stopId": "3399",
+        "stopName": "Santa Teresa & Cheltenham"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.76758,
+          37.2241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 20.636008683068034,
+        "numTrips": 691,
+        "stopId": "3400",
+        "stopName": "Santa Teresa & Avenida Espana"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.77316,
+          37.22516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 13.121836468885695,
+        "numTrips": 691,
+        "stopId": "3401",
+        "stopName": "Santa Teresa & Chantilley"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.77559,
+          37.22615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 21.31026628075254,
+        "numTrips": 691,
+        "stopId": "3402",
+        "stopName": "Santa Teresa & Bernal"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.78069,
+          37.22922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 14.364049204052083,
+        "numTrips": 691,
+        "stopId": "3403",
+        "stopName": "Santa Teresa & Martinvale"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.78402,
+          37.23122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 10.126447178002897,
+        "numTrips": 691,
+        "stopId": "3404",
+        "stopName": "Santa Teresa & Great Oaks"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.78754,
+          37.23329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 9.018923299565836,
+        "numTrips": 691,
+        "stopId": "3405",
+        "stopName": "Santa Teresa & San Ignacio"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.78934,
+          37.23674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 118.7370636758321,
+        "numTrips": 691,
+        "stopId": "3406",
+        "stopName": "Santa Teresa Station"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.80385,
+          37.25063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 44.84186107091172,
+        "numTrips": 691,
+        "stopId": "3407",
+        "stopName": "Cottle & Great Oaks"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.80394,
+          37.25667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 30.467813043478237,
+        "numTrips": 690,
+        "stopId": "3408",
+        "stopName": "Monterey & Blossom Hill"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.80866,
+          37.25951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 43.61082173913039,
+        "numTrips": 690,
+        "stopId": "3409",
+        "stopName": "Monterey & Roeder"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.81044,
+          37.26057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 78.05628038674031,
+        "numTrips": 724,
+        "stopId": "3410",
+        "stopName": "Monterey & Roeder"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.81364,
+          37.2625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 29.25143273231621,
+        "numTrips": 721,
+        "stopId": "3411",
+        "stopName": "Monterey & Edenview"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.81761,
+          37.26488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 9.26330972222222,
+        "numTrips": 720,
+        "stopId": "3412",
+        "stopName": "Monterey & Bougainvillea"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.86652,
+          37.30899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 12.120239280774557,
+        "numTrips": 723,
+        "stopId": "5255",
+        "stopName": "Monterey & Stauffer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.56927,
+          37.00826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 22.52708997050148,
+        "numTrips": 678,
+        "stopId": "5359",
+        "stopName": "Monterey & 5th"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.66408,
+          37.13493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 7.46368306801736,
+        "numTrips": 691,
+        "stopId": "5391",
+        "stopName": "Hale & Hillwood"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.8724,
+          37.31495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "averageDwellSeconds": 26.426062240663928,
+        "numTrips": 723,
+        "stopId": "5822",
+        "stopName": "Monterey & Cottage Grove"
+      },
+      "type": "Feature"
+    }
+  ]
+  
+}

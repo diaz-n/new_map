@@ -1,4 +1,102 @@
 {
-    "sources": {},
-    "layers": []
+    "sources": {
+        "sites":{
+            "type": "geojson",
+            "data": {
+                "type": "FeatureCollection",
+                "features":[]
+            }
+        },
+        "neighborhoods":{
+            "type": "geojson",
+            "data": {
+                "type": "FeatureCollection",
+                "features":[]
+            }
+        },
+        "transit_north":{
+            "type": "geojson",
+            "data": {
+                "type": "FeatureCollection",
+                "features":[]
+            }
+        }
+    },
+    "layers": [
+        {
+            "id": "neighborhoods-fill",
+            "type": "fill-extrusion",
+            "source": "neighborhoods",
+            "paint": {
+                "fill-extrusion-color": [
+                    "step",
+                    ["get", "count"],
+                    "#fef0d9", 30,
+                    "#fdd49e", 100,
+                    "#fdbb84", 300,
+                    "#fc8d59", 800,
+                    "#e34a33", 1200,
+                    "#b30000"
+                ],   
+                "fill-extrusion-opacity": 0.5,
+                "fill-extrusion-height": ["*",["get", "count"], 5]
+            }
+        },
+        {
+            "id": "neighborhoods-outline",
+            "type": "line",
+            "source": "neighborhoods",
+            "paint": {
+                "line-width": 2
+            }
+        },
+        {
+            "id": "transit_north_lines",
+            "type": "line",
+            "source": "transit_north",
+            "paint": {
+                "line-width": 3,
+                "line-color": [
+                    "step",
+                    ["get","averageTravelSpeed"],
+                    "red", 10,
+                    "orange", 15,
+                    "yellow", 20,
+                    "green"
+
+                ]
+            }
+        },
+        {
+            "id": "transit_north_circles",
+            "type": "circle",
+            "source": "transit_north",
+            "paint": {
+                "circle-color": [
+                    "step",
+                    ["get","averageDwellSeconds"],
+                    "green", 10,
+                    "yellow", 30,
+                    "red"
+
+                ],
+                "circle-radius": [
+                    "interpolate",
+                    ["linear"],
+                    ["get","averageDwellSeconds"],
+                    0,4,
+                    150,12
+                ]
+            },
+            "filter": ["has", "averageDwellSeconds"]
+        },
+        {
+            "id": "transit-labels",
+            "type": "symbol",
+            "source": "transit_north",
+            "layout":{
+                "text-field": ["get", "stopName"]
+            }
+        }  
+    ]
 }

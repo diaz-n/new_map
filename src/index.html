@@ -6,7 +6,32 @@
     </head>
     <body>
         <main>
+            <header>
+                <div class="title">
+                    Cataloged Historic Sites in Los Angeles by Neighborhood 
+                </div>
+                <div>
+                    Nikki Diaz, October 2020 
+                </div>
+            </header>
             <div id="map"></div>
+            <div id="legend">
+                <h4># of sites</h4>
+            </div>
+            <div id="popup">
+                <h4 class="neighborhood"></h4>
+                <div>
+                    <span class="count"></span>
+                    historic site(s) cataloged
+                </div>
+            </div>
         </main>
+
+        <template id="legend-entry">
+            <div class="entry">
+                <span class="color"></span>
+                <span class="value"></span>
+            </div>
+        </template>
     </body>
 </html>

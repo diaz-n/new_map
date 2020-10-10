@@ -12,7 +12,7 @@ sites.features.forEach(function(feature) {
 let output = turf.collect(neighborhoods, sites, "count", "count");
 
 output = output.features.filter(function(feature, i) {
-    feature.id = 1;
+    feature.id = i;
     feature.properties.count = feature.properties.count.length;
     return feature.properties.count > 0;
 });

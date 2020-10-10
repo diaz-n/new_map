@@ -15,3 +15,44 @@ main {
 #map {
     height: 100%;
 }
+
+header, #legend, #popup {
+    position: fixed;
+    z-index:100; 
+    background-color: rgba(220, 220, 220, 0.9);
+    padding: 15px; 
+    border: solid black 1px; 
+    border-radius: 3px; 
+    font-size: 14px;  
+}
+
+header {
+    top: 10px; 
+    left: 10px;
+}
+
+#legend {
+    bottom: 25px;
+    right: 10px;
+}
+
+.title{
+    font-size: 1.2em; 
+    font-weight: 600;
+    margin-bottom: 3px; 
+}
+
+.color {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border: solid 1px black; 
+
+}
+
+#popup {
+    top: 10px;
+    right: 10px;
+    display: none;
+    
+}
